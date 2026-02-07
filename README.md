@@ -34,12 +34,8 @@
 
 ## **Инструкции по запуску**
 
-1.  Установите зависимости:
-```bash
+1.  Установите зависимости:  
 pip install pandas numpy matplotlib seaborn jupyter
-
-2.  Запустите Jupyter Notebook:
-```bash
-jupyter notebook
-
-3.  Откройте файл \`notebooks/01_data_understanding.ipynb\`
+2.  Запустите Jupyter Notebook:  
+jupyter notebook  
+3.  Откройте файл `notebooks/01_data_understanding.ipynb`
